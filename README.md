@@ -1,5 +1,8 @@
 # Scribe
 
+This is a simple blog site where users can share ideas and their thoughts with the rest of the world. The app is deployed at
+[Scribe](https://scribe-backend.firebaseapp.com).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
 ## Development server
